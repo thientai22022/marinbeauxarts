@@ -3,6 +3,11 @@
     margin-top: 25px;
     margin-bottom: 45px;
     --bs-gutter-x: 30px;
+    .container-fluid{
+        @media (min-width: 1200px) {
+            max-width: 1320px;
+        }
+    }
     &_content{
         margin-top: 45px;
         padding-bottom: 45px;

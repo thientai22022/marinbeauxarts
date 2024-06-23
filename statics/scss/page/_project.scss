@@ -3,6 +3,11 @@
   margin-top: 25px;
   margin-bottom: 45px;
   --bs-gutter-x: 30px;
+  .container-fluid{
+      @media (min-width: 1200px) {
+          max-width: 1320px;
+      }
+  }
   &.category{
     .projeck_content{
       margin-top: 30px;
