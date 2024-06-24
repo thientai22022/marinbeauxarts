@@ -13473,9 +13473,9 @@ a { text-decoration: none; }
 .projeck .item a .content { padding-top: 20px; padding-right: 14px; padding-bottom: 30px; padding-left: 14px; }
 .projeck .item a .content h3 { font-size: 14px; font-family: Montserrat, Arial, Helvetica, sans-serif; margin: 0; line-height: 1.1; font-weight: 300; font-style: italic; text-align: center; }
 
-.footer { --bs-gutter-x:30px; padding: 70px 0; text-align: center; }
+.footer { --bs-gutter-x:30px; padding: 70px 0 30px; text-align: center; }
 .footer .copyright { color: #656a70; font-size: 10px; }
-
+.footer .social_footer { margin-top: 30px; font-size: 18px; }
 .scrolltop { background-color: #333; border-radius: 2px 2px 0 0; bottom: 0; height: 35px; position: fixed; text-align: center; width: 48px; opacity: 0; z-index: 100000; -webkit-transition: opacity .4s ease-in-out, background .2s ease-in-out; transition: opacity .4s ease-in-out, background .2s ease-in-out; line-height: 1; left: 75px; pointer-events: none; border: none; -webkit-box-shadow: unset; box-shadow: unset; outline: none; color: #fff; margin: 0; padding: 0; }
 .scrolltop.fixed { pointer-events: auto; opacity: .9; -webkit-transition: opacity .4s ease-in-out, background .2s ease-in-out; transition: opacity .4s ease-in-out, background .2s ease-in-out; }
 
